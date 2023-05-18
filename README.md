@@ -7,3 +7,7 @@ green).  Then, (2) select "Download Zip".
 You should then have the zip
 file downloaded to your computer.  Unzip it (I recommend doing that on
 your Desktop for easy access) and you should be good to go!
+
+All training materials (notebooks and Python code) are copyright, Mark
+Fenner, 2023, all rights reserved.  The datasets are offered here as a
+convenience and are the property of their respective owners.
